@@ -1,0 +1,39 @@
+["gcp_service_account"] 
+type = "service_account"
+project_id = "register2025"
+private_key_id = "95a9bbcf8144f7fd5132c2393e70271d0d816b90"
+private_key = """-----BEGIN PRIVATE KEY-----
+MIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC+jezbBSPuTayc
+AV+3kgRnqPjbSxeBxJMU2ZZmMzAJRKfGZkWefc7mG8mzca9SYfGrp1yxRmMzWum6
+4vmU2PkzIJGmm8WL3y6j/UwV1DAyPC9utnTrB3Y3Tz/K0rp4dNby0O1u0sD2+Lb8
+1WN+dqguJ01uNuDsyBCpdMb8ph4j75DH3bL9tfMW5uUo3EnXull7Sc/CltilB4GD
+MfvjhgsNGDtKBKF4G2bon4PP5ifMJwpYhRNKy9JMDM6biNU3XZByx1P93hJxi1JC
+KEYoHn+Z216pfnH8W/TYDmTCgTii3O+wgCLvaD/TiiwgD/NWy8FcXtLjR6VWdqYg
+0nBREDE9AgMBAAECggEAGWQ2YmL3duWGcXf6EK8rg21FJ+Iu3N2xpE7Fgeh351bs
+16eWHE3zAr+Y1h6jzYxRPzMly1Yv7s5s+bhiqH5sX8SLE/01dXNvtsNltDzvj9TB
+lJ+fHxhXR3x5vtBAr79l9bojAVL3tTvOv7cRiG74RG978QqYAy/k5H0JQkOXyD2E
+iqH2pxUbOypms8CCa3uvmwIS7B+y9vqHL6EnGECiHs52agcLayvoqlYRvXJbcWFC
+VT/msSySY+C/U7inEamNqGG6hZPeJePl8aL35hXmIJa7KO/v22mM4WW7twkJmuKm
+rpOCBR+sBo7kQQUgXlkERlgMw+1AnfI582Z6CBsIIwKBgQD4Le8Hi4O9MaX2+Gxt
+YqYjlJRRb9qvZR1I2a6xyBGCgv5tJIJBmNDdVTJv7E/1OtvHcYF8s554QUVAAFdt
+C0X6XGxwm0sQsvgGWsGrJ2PuvCWUl4cmp/SYuCULiblqVo50einOObjD1jKtF3gG
+ltgLkxEWlsnwb5FRvzu4eDQngwKBgQDEjyE0Zx4MKbvSQzOwEz45wppKnvlWlZ8V
+QpWEQXH42H2a/OPgamEtkI0fCvLUh2n2Uo7H5ASNua5u6wHz4GwrUgOBCkHfNEb5
+zCQH5nvCBG8dOx21FjSljfSVH5E/Ri1b0IHYfqlAJtMO4NdmMQCf33I9JaxLztaE
+2qpP5looPwKBgDM5j+e3xTZMxBvIxOCDBxW6+i4g7ztanIPH4oXxbKPKk+dFLNmL
+SDkW97UgSpSsVGbDJ93sWR4rIrcGGwV32TbG0t8fPoww1H7DRswj8j15eixEZnH1
+IshO4d6Sy8GGIhsqh+x3/4n0cTtG59A8XFVvQoyuDPpinNUJqrL1pJYvAoGAHK82
+jUsvG19LxZeBB4UHY65+jb09beFP4e5hm3dhhosxaVjWeH2NyPR7Y7hZT6KjWAsc
+QxeHgpdCWXV6R3jM0FWbpU0157jdUr7z0yNTlDDJdl6WK0MeU7qvosOEktNO80Mu
+b8WsNWx1CIrPZF5qVOpq5XmF91or/B9dE2PubEkCgYAC/ZzfJhBLKHzXXKKEAUVX
+UxUy4t+uGh+6dsKp3Qi7VCVfOGX4vxVjGWm7x6lsBdZDM/Dp3gHXUl4+uOI0nC2X
+UWVPaDO/xe77ErnBhBumzlny2/ue3jd8dcUPpHv/ApWt8WV6rZ/R9NHF/RaQSdRI
+X+nD19G9aQ+fikuM61ffzA==
+-----END PRIVATE KEY-----"""
+client_email = "ewe-toxic@register2025.iam.gserviceaccount.com"
+client_id = "108650435469608952304"
+auth_uri = "https://accounts.google.com/o/oauth2/auth"
+token_uri = "https://oauth2.googleapis.com/token"
+auth_provider_x509_cert_url = "https://www.googleapis.com/oauth2/v1/certs"
+client_x509_cert_url = "https://www.googleapis.com/robot/v1/metadata/x509/ewe-toxic%40register2025.iam.gserviceaccount.com"
+universe_domain = "googleapis.com"
